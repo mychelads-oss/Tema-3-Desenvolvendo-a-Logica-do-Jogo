@@ -1,0 +1,16 @@
+Carta: 69 - BRASIL
+População: 98456
+Área: 69583.00
+PIB: 369852160.00
+Pontos Turísticos: 6932
+Densidade: 1.41
+PIB per Capita: 3756.52
+-----------------------------
+Carta: ARGENTINA - 
+População: 7539
+Área: 36951.00
+PIB: 315648000.00
+Pontos Turísticos: 3695
+Densidade: 0.20
+PIB per Capita: 41868.68
+-----------------------------
